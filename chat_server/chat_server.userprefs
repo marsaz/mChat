@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="chat_server\chat_server.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="chat_server\MainWindow.cs">
+    <Files>
+      <File FileName="chat_server\Program.cs" Line="18" Column="1" />
+      <File FileName="chat_server\MainWindow.cs" Line="77" Column="18" />
+      <File FileName="chat_server\gtk-gui\MainWindow.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

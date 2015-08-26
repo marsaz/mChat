@@ -1,0 +1,5 @@
+C:\Users\marsaz\Documents\Projects\chat_server\chat_server\bin\Debug\chat_server.exe
+C:\Users\marsaz\Documents\Projects\chat_server\chat_server\bin\Debug\chat_server.pdb
+C:\Users\marsaz\Documents\Projects\chat_server\chat_server\obj\x86\Debug\chat_server.csprojResolveAssemblyReference.cache
+C:\Users\marsaz\Documents\Projects\chat_server\chat_server\obj\x86\Debug\chat_server.exe
+C:\Users\marsaz\Documents\Projects\chat_server\chat_server\obj\x86\Debug\chat_server.pdb
